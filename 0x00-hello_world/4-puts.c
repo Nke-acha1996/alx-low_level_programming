@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stido.h>
 
 int main (4-puts.c)
 {
