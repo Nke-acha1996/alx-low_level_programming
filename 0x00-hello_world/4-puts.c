@@ -1,6 +1,10 @@
 #include<stido.h>
-
-int main (4-puts.c)
+/**
+ * 
+ * Return:Always 0 (Success)
+ */
+int main(4-puts.c)
 {
-	printf("Programming is like building a multilingual puzzle");
-	return(0)
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
