@@ -1,2 +1,6 @@
-#!/bin/bash
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c && ./a.out
+#include <studio.h>
+
+int main (4-puts.c)
+{
+	printf("Programming is like building a multilingual puzzle");
+	return (0)
